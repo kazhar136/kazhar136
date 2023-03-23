@@ -1,6 +1,6 @@
 ![logo](https://github.com/kazhar136/kazhar136/blob/main/Azhar%20Khan.gif)
-<h1 >Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Azhar Khan</h1>
-<h3 >A passionate Python Full Stack developer from India</h3>
+<h1 align = "center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Azhar Khan</h1>
+<h3 align = "center">A passionate Python Full Stack developer from India</h3>
 
 <img align="right" alt = "coding" width="400" src="https://media.tenor.com/A5eDh9nWrqYAAAAd/working-from.gif">
 
